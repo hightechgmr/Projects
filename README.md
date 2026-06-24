@@ -1,2 +1,2 @@
 # CODSOFT
-For Internship Purpose
+This repository is my work done during the virtual internship of CodSoft.
